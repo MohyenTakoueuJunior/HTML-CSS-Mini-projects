@@ -1,0 +1,47 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;;
+  font-weight: 400, 700;
+  text-align: center;
+  padding: 0;
+  width: 1440px;
+  height: 800px;
+
+}
+h3 {
+  color: #000050;
+}
+
+p {
+  font-size: 15px;
+  color: #7393B3;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0
+    rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 19rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  box-shadow: 20%;
+}
+
+.container {
+  padding: 2px 16px
+}
+
+.image {
+  width: 18rem;
+  padding: 1rem 1rem 0 2rem;
+}
+
+.code-img {
+  width: 100%;
+  position: relative;
+  right: 25px;
+  border-radius: 10px;
+}
